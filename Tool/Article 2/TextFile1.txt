@@ -1,0 +1,5 @@
+﻿ Answer 2 :
+abstract เป็น access modifiers ประเภทหนึ่ง 
+interface มาตรฐานของ class ที่จะมีเพียง abstract method เป็นสมาชิก จากนั้นไปทำการ inherit กับ class  
+abstract class จะเป็นคลาสที่ไม่สามารถเอาไปสร้าง object หรือ instance แต่สามารถสร้างคลาสลูกเพื่อไปใช้งานแทน
+
